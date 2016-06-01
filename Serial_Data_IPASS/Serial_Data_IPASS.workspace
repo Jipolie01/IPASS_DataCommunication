@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Serial_Data_IPASS" Database="">
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Jipduino_Alpha_0-1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Jipduino_Alpha_0-1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
